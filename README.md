@@ -1,7 +1,7 @@
 # Lab: Bank Account Management System (Inheritance & Polymorphism)
 
 **Author:** Henoc Kabeya  
-**Date:** October 13, 2026  
+**Date:** October 12, 2026  
 **Course:** CS 272  
 
 ---
